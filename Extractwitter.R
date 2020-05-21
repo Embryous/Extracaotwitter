@@ -1,3 +1,4 @@
+#Cria a função para fazer 900 pulls a cada 15 minutos
 pega_usuario <- function(usuario){
   out <- tryCatch(
     {
